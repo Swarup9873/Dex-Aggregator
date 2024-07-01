@@ -1,0 +1,35 @@
+{
+  "31337": {
+    "aggregator": {
+      "address": "0x1B25157F05B25438441bF7CDe38A95A55ccf8E50"
+    },
+    "dai": {
+      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
+    },
+    "weth": {
+      "address": "0xea353B83d86F2cAF77a7C556f5c428A1802b7823"
+    }
+  },
+  "1": {
+    "aggregator": {
+      "address": "0x52bad4a8584909895c22bdecf8dbf33314468fb0"
+    },
+    "dai": {
+      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
+    },
+    "weth": {
+      "address": "0xea353B83d86F2cAF77a7C556f5c428A1802b7823"
+    }
+  },
+  "421614": {
+    "aggregator": {
+      "address": "0xd84a4Ebb9d3D7A406503574ad3F5c4E811Dde066"
+    },
+    "dai": {
+      "address": "0x16be2Cf53DC50ebc3D1d3b8b4D803729A87Cd7DE"
+    },
+    "weth": {
+      "address": "0xea353B83d86F2cAF77a7C556f5c428A1802b7823"
+    }
+  }
+}

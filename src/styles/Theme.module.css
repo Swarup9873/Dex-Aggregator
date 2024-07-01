@@ -1,0 +1,100 @@
+/* Theme.module.css */
+.primaryBackground {
+    background-color: #1E1F2E;
+}
+
+.primaryTextColor {
+    color: #E0077A;
+}
+
+.secondaryBackground {
+    background-color: #E0077A;
+}
+
+.secondaryTextColor {
+    color: #1E1F2E;
+}
+/* Theme.module.css */
+
+.customNavbar {
+    background-color: #1D3532;
+    padding: 10px 25px;
+}
+
+.navBrand {
+    display: flex;
+    align-items: center;
+}
+
+.navLogo {
+    margin-right: 15px; 
+}
+
+.navTitle {
+    font-size: 1.5em; 
+    font-weight: 700; 
+    color: #fff; 
+}
+
+.networkSelector {
+    width: 150px; 
+    border-radius: 8px;
+    background-color: #2D2D3F;
+    color: #fff;
+    border: none;
+    margin-right: 20px;
+}
+
+.networkSelector:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.connectBtn {
+    background-color: #0619238e;
+    border: none;
+    border-radius: 10px;
+    padding: 8px 20px;
+    color: #fff;
+    font-weight: 600; /* Make the text bold */
+}
+
+.connectBtn:hover {
+    background: linear-gradient(90deg, rgb(183, 186, 189) 0%, #274144 100%);
+
+}
+
+.accountInfo {
+    display: flex;
+    align-items: center;
+    color: #fff;
+    font-weight: 600; /* Bold text for readability */
+}
+
+.identicon {
+    margin-right: 10px;
+}
+
+
+
+.tabLink {
+    padding: 10px 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+.tabLink:hover {
+    color: #E0077A;
+}
+
+
+.active {
+    font-weight: bold;
+    color: white !important;
+}
+
+.tabContainer .navbar-nav .nav-link.active {
+    font-weight: bold;
+    color: #6907e0 !important;
+}
